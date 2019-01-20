@@ -1,11 +1,3 @@
-# CS 440 MP2: Robotic Arm
-
-## Implement:
-1. geometry.py
-2. transform.py
-3. search.py
-4. maze.py for extra credit only 
-
 ## Requirements:
 ```
 python3
